@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079745780199",
+    "firebase_url": "https://flashchat-dbfba.firebaseio.com",
+    "project_id": "flashchat-dbfba",
+    "storage_bucket": "flashchat-dbfba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079745780199:android:f122ec795d760e155ec542",
+        "android_client_info": {
+          "package_name": "co.JustGinger888.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079745780199-belngkqp5vbm83jn9iq8h3pls0p8bi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnuwOyRbA4u01fmBYQPlMUE6Vq3qu06E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079745780199-belngkqp5vbm83jn9iq8h3pls0p8bi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
