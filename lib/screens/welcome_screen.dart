@@ -1,8 +1,4 @@
-//import 'dart:html';
-
 import 'package:flutter/material.dart';
-import 'login_screen.dart';
-import 'login_screen.dart';
 import 'login_screen.dart';
 import 'registration_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
@@ -68,7 +64,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     'Flash Chat',
                   ],
                   isRepeatingAnimation: false,
-                  speed: Duration(milliseconds: 333),
+                  speed: Duration(milliseconds: 380),
                   textStyle: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
